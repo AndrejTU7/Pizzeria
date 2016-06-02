@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="rostilj_dark">#000000</color>
+    <color name="rostilj">#9E9E9E</color>
+    <color name="ab_settings_dark">#616161</color>
+    <color name="ab_red">#F44336</color>
+    <color name="ab_red_dark">#B71C1C</color>
+    <color name="pizze">#F44336</color>
+    <color name="pizze_dark">#B71C1C</color>
+    <color name="salate">#4CAF50</color>
+    <color name="salate_dark">#1B5E20</color>
+    <color name="sendvici">#9C27B0</color>
+    <color name="sendvici_dark">#4A148C</color>
+    <color name="tortille_bruschette">#FF5722</color>
+    <color name="tortille_bruschette_dark">#BF360C</color>
+    <color name="lifestyle">#E91E63</color>
+    <color name="lifestyle_dark">#880E4F</color>
+    <color name="tjestenine">#009688</color>
+    <color name="tjestenine_dark">#004D40</color>
+    <color name="tehnologija">#2196F3</color>
+    <color name="tehnologija_dark">#0D47A1</color>
+    <color name="automoto">#3F51B5</color>
+    <color name="automoto_dark">#1A237E</color>
+</resources>

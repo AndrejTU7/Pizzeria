@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pizze"
+            android:icon="@drawable/ic_menu_pizza"
+            android:title="Pizze" />
+        <item
+            android:id="@+id/nav_riba_rakova_mekusaca"
+            android:icon="@drawable/ic_menu_fish"
+            android:title="Ribe, rakovi i mekušci" />
+        <item
+            android:id="@+id/nav_tjestenine"
+            android:icon="@drawable/ic_menu_tjestenine"
+            android:title="Tjestenine" />
+
+        <item
+            android:id="@+id/nav_salate"
+            android:icon="@drawable/ic_menu_salate"
+            android:title="Salate" />
+
+        <item
+            android:id="@+id/nav_deserti"
+            android:icon="@drawable/ic_black_cake"
+            android:title="Deserti" />
+
+
+    </group>
+
+    <item android:title="Uredba">
+        <menu>
+            <item
+                android:id="@+id/nav_lex"
+                android:icon="@drawable/ic_menu_paper"
+                android:title="Informiranje potrošača o hrani" />
+
+        </menu>
+    </item>
+
+</menu>

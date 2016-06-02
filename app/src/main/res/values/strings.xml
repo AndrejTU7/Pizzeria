@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="pizze">Pizze</string>
+    <string name="jela_od_riba_rakova_mekusaca">Jela od riba, rakova i mekušaca</string>
+    <string name="tjestenine">Tjestenine</string>
+    <string name="salate">Salate</string>
+    <string name="deserti">Deserti</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="pizza_mijesana">PIZZA MIJEŠANA</string>
+    <string name="lex">lex</string>
+</resources>
